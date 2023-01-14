@@ -1,16 +1,7 @@
-### Hi, I am Aditya B N 👋
+### Hi, I am Aditya B N. I am interested in Backend Development.👋
 
-<!--
-**adirn26/adirn26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Android and Spring boot
 - 👯 I’m looking to collaborate on Java Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: adirn26@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
