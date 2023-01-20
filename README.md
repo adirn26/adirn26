@@ -5,3 +5,4 @@
 - 📫 How to reach me: adirn26@gmail.com
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adirn26&show_icons=true&theme=dracula)
