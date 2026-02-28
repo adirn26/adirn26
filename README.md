@@ -1,8 +1,10 @@
-### Hi there, I'm Aditya B N 👋
+## Hey, I’m Aditya B N 👋
 
-I'm a Backend Developer who is passionate about Backend Services. I am always keen on learning and exploring new technologies that make development more efficient and effective. I'm currently focusing on Spring Boot microservices development.
+I build scalable backend systems and production LLM infrastructure.
 
-- 📫 How to reach me: adirn26@gmail.com
+- Designing RAG architectures for enterprise conversational AI
+- Building agentic workflows using LangGraph
+- Developing orchestration layers for multi-agent systems
+- Working with FastAPI, distributed systems, and event-driven architectures
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=adirn26&show_icons=true&theme=radical)
+Ex-CloudSEK | GSoC’23
